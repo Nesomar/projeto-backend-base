@@ -1,2 +1,2 @@
-# selecao-java
-Projeto para seleção Java
+# Projeto Modular Mavan Base
+Projeto base
