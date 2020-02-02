@@ -1,0 +1,14 @@
+resourcePackages:
+- br.com.ramalho.nesomar.endPoint
+prettyPrint: true
+cacheTTL: 0
+openAPI:
+  servers:
+     - url: http://localhost:8080/selecao-java-backend/api/v1/
+       description: Servidor de desenvolvimento (Contexto EAR)
+     - url: http://192.168.91.190:8081/selecao-backend/api/v1/
+       description: Servidor de desenvolvimento para Seleção Java (Contexto EAR)
+  info:
+    version: '1.0.0'
+    title: Seleção Java API Rest
+    description: 'Recursos expostos pelo Seleção Java.'

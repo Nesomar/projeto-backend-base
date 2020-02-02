@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE application PUBLIC
+	"-//Sun Microsystems, Inc.//DTD J2EE Application 1.3//EN"
+	"http://java.sun.com/dtd/application_1_3.dtd">
+<application>
+  <display-name>seleca-java-ear</display-name>
+  <description>Projeto que servirá somente para efetuar o empacotemento do projeto</description>
+  <module>
+    <web>
+      <web-uri>selecao-java-rest-1.0.0.war</web-uri>
+      <context-root>/selecao-java-backend</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>selecao-java-service-1.0.0.jar</ejb>
+  </module>
+  <module>
+    <ejb>selecao-java-persistence-1.0.0.jar</ejb>
+  </module>
+</application>
