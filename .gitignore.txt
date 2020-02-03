@@ -1,8 +1,0 @@
-/.settings/
-/.project
-.scannerwork
-.vscode/
-.idea/
-/bin/
-/build/
-.classpath
