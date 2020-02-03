@@ -1,2 +1,4 @@
 br\com\ramalho\nesomar\ApplicationBase.class
+br\com\ramalho\nesomar\endpoint\UsuarioEndPoint.class
+br\com\ramalho\nesomar\endpoint\impl\UsuarioEndPointImp.class
 br\com\ramalho\nesomar\filter\CORSFilter.class

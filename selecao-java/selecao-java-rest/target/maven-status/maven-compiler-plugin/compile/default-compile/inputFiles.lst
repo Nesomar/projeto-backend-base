@@ -1,2 +1,4 @@
 C:\workspace\selecao-java\selecao-java-rest\src\main\java\br\com\ramalho\nesomar\ApplicationBase.java
+C:\workspace\selecao-java\selecao-java-rest\src\main\java\br\com\ramalho\nesomar\endpoint\UsuarioEndPoint.java
+C:\workspace\selecao-java\selecao-java-rest\src\main\java\br\com\ramalho\nesomar\endpoint\impl\UsuarioEndPointImp.java
 C:\workspace\selecao-java\selecao-java-rest\src\main\java\br\com\ramalho\nesomar\filter\CORSFilter.java

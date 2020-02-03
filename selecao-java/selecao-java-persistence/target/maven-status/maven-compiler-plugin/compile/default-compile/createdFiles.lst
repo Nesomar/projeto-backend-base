@@ -1,9 +1,13 @@
+br\com\ramalho\nesomar\model\Usuario_.class
 br\com\ramalho\nesomar\persistence\ValidadorBase.class
 br\com\ramalho\nesomar\model\EntidadeBase_.class
 br\com\ramalho\nesomar\util\ConstanteSistemaUtil.class
-br\com\ramalho\nesomar\exception\DAOException.class
 br\com\ramalho\nesomar\dao\GenericoDAO.class
 br\com\ramalho\nesomar\model\EntidadeBase.class
+br\com\ramalho\nesomar\dao\UsuarioDAO.class
+br\com\ramalho\nesomar\enumeration\MensagemSistemaEnum.class
+br\com\ramalho\nesomar\model\Usuario.class
+br\com\ramalho\nesomar\exception\DAOException.class
+br\com\ramalho\nesomar\dao\impl\UsuarioDAOImpl.class
 br\com\ramalho\nesomar\dao\impl\GenericoDAOImpl.class
 br\com\ramalho\nesomar\util\MensagemUtil.class
-br\com\ramalho\nesomar\enumeration\MensagemSistemaEnum.class

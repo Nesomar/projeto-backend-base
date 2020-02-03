@@ -21,20 +21,10 @@
 					<ejbVersion>3.2</ejbVersion>
 					<generateClient>true</generateClient>
 					<clientIncludes>
-						<clientInclude>br/gov/pbh/sipu/service/*</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/service/tdc/*</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/service/bph/*</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/service/epca/*</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/service/odc/*</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/service/jwt/*</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/exception/**</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/vo/**</clientInclude>
-						<clientInclude>br/gov/pbh/sipu/dto/**</clientInclude>
+						<clientInclude>br/com/ramalho/nesomar/service/*</clientInclude>
 					</clientIncludes>
 					<clientExcludes>
-						<clientExclude>br/gov/pbh/sipu/service/impl/*</clientExclude>
-						<clientExclude>br/gov/pbh/sipu/service/bph/impl/*</clientExclude>
-						<clientInclude>br/gov/pbh/sipu/service/epca/impl/*</clientInclude>
+						<clientExclude>br/com/ramalho/nesomar/service/impl/*</clientExclude>
 					</clientExcludes>
 				</configuration>
 			</plugin>

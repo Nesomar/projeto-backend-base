@@ -1,0 +1,4 @@
+br\com\ramalho\nesomar\service\impl\GenericoServiceImpl.class
+br\com\ramalho\nesomar\service\impl\UsuarioServiceImpl.class
+br\com\ramalho\nesomar\service\GenericoService.class
+br\com\ramalho\nesomar\service\UsuarioService.class
